@@ -7,6 +7,10 @@
 
 # T
 
+## 1. Data Organization.  
+<img src="./pics/DataOrganization_DetailedFlowchart.jpeg"  />
+
+
 
 # A
 
