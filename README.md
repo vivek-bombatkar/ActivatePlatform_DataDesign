@@ -7,8 +7,11 @@
 
 # T
 
-## 1. Data Organization.  
+- 1. Data Organization.  
 <img src="./pics/DataOrganization_DetailedFlowchart.jpeg"  />
+
+- 3. Output KPIs and analytics.  
+<img src="./pics/kpi_table.png"  />
 
 
 
