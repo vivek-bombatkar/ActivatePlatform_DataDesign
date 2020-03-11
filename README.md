@@ -7,15 +7,18 @@
 
 # T
 
-- 1. Data Organization.  
+- 1 Data Organization.  
 <img src="./pics/DataOrganization_DetailedFlowchart.jpeg"  />
 
-- 3. Output KPIs and analytics.  
+- 3 Output KPIs and analytics.  
 <img src="./pics/kpi_table.png"  />
 
 
 
 # A
+
+- Activate Platform - Cloud Implementation 
+<img src="./pics/ActivatePlatform-CloudImplementation.png"  />
 
 
 # R
