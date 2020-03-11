@@ -1,9 +1,9 @@
 # ActivatePlatform_DataDesign
 
-- [Situation](#10) 
-- [Tasks](#20) 
-- [Action](#30) 
-- [Result](#40) 
+- ['S'ituation](#10) 
+- ['T'asks](#20) 
+- ['A'ction](#30) 
+- ['R'esult](#40) 
 
 
 # <a name="10"></a>Situation   
@@ -12,7 +12,7 @@
 
 # <a name="20"></a>Tasks
 
-- 1 Data Organization.  
+***Data Organization.***  
 <img src="./pics/DataOrganization_DetailedFlowchart.jpeg"  />
 
   - Activate dose have 2 types of data ingestion: Realtime, batch
@@ -21,16 +21,28 @@
   - Data Partition and Bucketing are important strategies for 'Segmentation' queries
   - Tools for data discovery and metadata management service needs to setup.
   
+  
 
-- 3 Output KPIs and analytics.  
+***Output KPIs and analytics.***  
 <img src="./pics/kpi_table.png"  />
 
+  - Generic KIP table to store KIP from all the segmemts. 
+  - Partition streategy put in place to efficiently fetch KIP. 
 
+***Lookalike Model***
+   - A graph like structure could be though to achive connections between segments.
+   - Or perhaps a Recomendation algorithm could be develop to learn pattrens in segment usage.
+   
+   
 
 # <a name="30"></a>Action
 
-- Activate Platform - Cloud Implementation 
+***Activate Platform - Cloud Implementation ***
 <img src="./pics/ActivatePlatform-CloudImplementation2.png"  />
 
+  - Google cloud service is assumed while designing this solution, but this could be replace by AWS services easstright away.
+  - Most of the tricky functionality could be achive using Cloud Native services.
+  - Ex. storing the results of segments for some period of time, so that next time effort could be save is achived using Google BigQuery.
+ 
 
 # <a name="40"></a>Result
