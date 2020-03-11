@@ -1,6 +1,6 @@
 # ActivatePlatform_DataDesign
 
-- Situation(#10) 
+- [Situation](#10) 
 
 # <a name="10"></a>Situation   
 <img src="./pics/Activate Platform Spider diagram.jpeg"  />
