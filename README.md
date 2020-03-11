@@ -1,4 +1,4 @@
-# ActivatePlatform_DataDesign
+# Activate Platform - Data Design
 
 - ['S'ituation](#10) 
 - ['T'asks](#20) 
@@ -12,7 +12,7 @@
 
 # <a name="20"></a>Tasks
 
-***Data Organization.***  
+***1. Data Organization.***  
 <img src="./pics/DataOrganization_DetailedFlowchart.jpeg"  />
 
   - Activate dose have 2 types of data ingestion: Realtime, batch
@@ -22,14 +22,17 @@
   - Tools for data discovery and metadata management service needs to setup.
   
   
+  
 
-***Output KPIs and analytics.***  
+***2. Output KPIs and analytics.***  
 <img src="./pics/kpi_table.png"  />
 
   - Generic KIP table to store KIP from all the segmemts. 
   - Partition streategy put in place to efficiently fetch KIP. 
 
-***Lookalike Model***
+
+
+***3. Lookalike Model***
    - A graph like structure could be though to achive connections between segments.
    - Or perhaps a Recomendation algorithm could be develop to learn pattrens in segment usage.
    
@@ -47,10 +50,11 @@
   - Ex. storing the results of segments for some period of time, so that next time effort could be save is achived using Google BigQuery.
  
 
+
 # <a name="40"></a>Result
 - We have achived cloud native solution with most of the out of box and battle tested technology.
 - Solution is highly scalable and elastic.
 - Cloud Native SaaS products offers cost efective pricing strategy.
 - Apache Spark is ideal for batch and realtime needs for Bigdata application.
-- 
+
 
