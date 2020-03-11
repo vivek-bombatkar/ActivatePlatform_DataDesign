@@ -18,7 +18,7 @@
 # A
 
 - Activate Platform - Cloud Implementation 
-<img src="./pics/ActivatePlatform-CloudImplementation.png"  />
+<img src="./pics/ActivatePlatform-CloudImplementation2.png"  />
 
 
 # R
