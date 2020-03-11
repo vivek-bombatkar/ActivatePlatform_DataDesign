@@ -1,11 +1,12 @@
 # ActivatePlatform_DataDesign
 
+- Situation(#10) 
 
-# S
+# <a name="10"></a>Situation   
 <img src="./pics/Activate Platform Spider diagram.jpeg"  />
 
 
-# T
+# Tasks
 
 - 1 Data Organization.  
 <img src="./pics/DataOrganization_DetailedFlowchart.jpeg"  />
@@ -15,10 +16,10 @@
 
 
 
-# A
+# Action
 
 - Activate Platform - Cloud Implementation 
 <img src="./pics/ActivatePlatform-CloudImplementation2.png"  />
 
 
-# R
+# Result
