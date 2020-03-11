@@ -41,8 +41,16 @@
 <img src="./pics/ActivatePlatform-CloudImplementation2.png"  />
 
   - Google cloud service is assumed while designing this solution, but this could be replace by AWS services easstright away.
+  - Apache Spark will be choice of the technology for data ingestion and processing for both batch and realtime.
+  - File based storage could be ideal with storage format like AVRO.
   - Most of the tricky functionality could be achive using Cloud Native services.
   - Ex. storing the results of segments for some period of time, so that next time effort could be save is achived using Google BigQuery.
  
 
 # <a name="40"></a>Result
+- We have achived cloud native solution with most of the out of box and battle tested technology.
+- Solution is highly scalable and elastic.
+- Cloud Native SaaS products offers cost efective pricing strategy.
+- Apache Spark is ideal for batch and realtime needs for Bigdata application.
+- 
+
